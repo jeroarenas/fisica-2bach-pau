@@ -1,4 +1,4 @@
-[![Física 2.º Bachillerato — apuntes para la PAU](img/social_preview.png)](fisica2bach_parte1.pdf)
+[![Física 2.º Bachillerato — apuntes para la PAU](social_preview.png)](fisica2bach_parte1.pdf)
 
 # Física 2.º Bachillerato — apuntes autocontenidos para la PAU
 
