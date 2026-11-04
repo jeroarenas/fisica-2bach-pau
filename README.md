@@ -1,3 +1,5 @@
+[![Física 2.º Bachillerato — apuntes para la PAU](img/social_preview.png)](fisica2bach_parte1.pdf)
+
 # Física 2.º Bachillerato — apuntes autocontenidos para la PAU
 
 Apuntes de Física de 2.º de Bachillerato pensados para preparar la PAU: ni un formulario telegráfico ni un libro de texto extenso, sino un resumen **autocontenido** que explica de dónde sale cada fórmula, con ejemplos resueltos y una selección de problemas graduados.
